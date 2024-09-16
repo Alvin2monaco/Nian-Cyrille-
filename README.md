@@ -4,3 +4,5 @@ Je m'appelle Nian Cyrille. Je suis administrateur sécurité système et réseau
 J'ai récemment obtenu le certificat professionnel de support réseaux et de cybersécurité de Fortinet et de ARCX Training LTD. Ces certificats professionnels (et d'autres que j'ai eus par le passé) de support informatique et de cybersécurité m'ont préparé à des emplois adaptés à l'industrie. Mon objectif est de devenir pentester ou analyste de sécurité. Ces rôles me conviennent car j'ai de solides capacités d'analyse, de la persévérance, une soif d'apprendre, une attitude positive, des compétences en résolution de problèmes et des compétences en communication pour faire face aux problèmes et aux menaces émergentes.
 
 En ce moment, je me prépare à passer les certifications Offensive Security Certified Professional (OSCP), et Offensive Security Defense Analyst (OSDA)
+
+# Panoplie
