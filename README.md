@@ -10,7 +10,7 @@ J'ai développé un portfolio de cybersécurité présentant diverses tâches et
 
   • les techniques de contournement antivirus
   • l'attaque et l'exploitation des applications web modernes 
-  • le test d'intrusion cloud 
+  • le test d'intrusion cloud
   • les stratégies et les meilleures pratiques de cybersécurité 
   • l'audit IT 
   • l'implémentation d'une cybersécurité en entreprise avec des logiciels open-source
