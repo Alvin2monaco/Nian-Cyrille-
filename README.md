@@ -17,7 +17,7 @@ J'ai développé un portfolio de cybersécurité présentant diverses tâches et
   * l'audit IT  
   * l'implémentation d'une cybersécurité en entreprise avec des logiciels open-source
 
-De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
+De plus, cela m'a ouvert la voie pour occuper l'un des postes suivants :
 
   * Pentester 
   * Analyste SOC
@@ -25,4 +25,8 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suiva
   * Ingénieur cybersécurité 
   * Analyste enquête numérique 
 
-# Compétences 
+### Compétences 
+| Projets | compétences/connaissances acquisesur | 
+| :--- |:---:|
+| [1]
+https://github.com/Alvin2monaco/Nian-Cyrille-/edit/main/README.md
