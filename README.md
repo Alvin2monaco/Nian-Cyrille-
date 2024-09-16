@@ -37,10 +37,16 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes suivants :
 | [7] - Wireshark | `Test d'intrusion `, `capture et analyse de traffic réseau ` |
 | [8] - Powershell | `Test d'intrusion `, `administration système `, `Automatisation de scripts pour la cybersécurité `
 
-
-
-
-
+### Outils 
+Plusieurs outils et systèmes avec lesquels je travaille souvent figurent :
+* Metasploit 
+* Wireshark 
+* Burp Suite 
+* Kali Linux 
+* Parrot Security OS 
+* Black Arch 
+* Security Onion 
+* Wazuh 
 
 
 
