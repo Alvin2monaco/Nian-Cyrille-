@@ -15,6 +15,7 @@ J'ai développé un portfolio de cybersécurité présentant diverses tâches et
   • le test d'intrusion cloud
   
   • les stratégies et les meilleures pratiques de cybersécurité 
+  
   • l'audit IT 
   
   • l'implémentation d'une cybersécurité en entreprise avec des logiciels open-source
@@ -22,7 +23,11 @@ J'ai développé un portfolio de cybersécurité présentant diverses tâches et
 De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
 
   • Pentester 
+  
   • Analyste SOC
+  
   • Auditeur 
+  
   • Ingénieur cybersécurité 
+  
   • Analyste enquête numérique 
