@@ -6,3 +6,5 @@ J'ai récemment obtenu le certificat professionnel de support réseaux et de cyb
 En ce moment, je me prépare à passer les certifications Offensive Security Certified Professional (OSCP), et Offensive Security Defense Analyst (OSDA)
 
 # Panoplie
+J'ai développé un portfolio de cybersécurité présentant diverses tâches et projets réalisés au cours de mon parcours pour obtenir mes certificats professionnels de cybersécurité. Ce programme m'a permis d'acquérir des connaissances sur :
+
