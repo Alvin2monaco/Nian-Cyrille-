@@ -26,7 +26,23 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes suivants :
   * Analyste enquête numérique 
 
 ### Compétences 
-| Projets | compétences/connaissances acquisesur | 
+| Projets | compétences/connaissances acquises | 
 | :--- |:---:|
-| [1]
-(https://github.com/Alvin2monaco/Nian-Cyrille-/tree/main/1%20-%20Conduct%20an%20Audit)
+| [1] - Test d'intrusion web | `Attaque de la couche d’authentification`, `Attaque d’une application Web accessible sur Internet`, `Attaque des appareils IoT`,`Attaque des applications JavaScript d’Electron – du Cross-Site Scripting (XSS) à l’exécution de commandes à distance (RCE)` | 
+| [2] - Test d'intrusion avec Windows et Linux | `OSINT`, `Contournement du contrôle d’accès au réseau`,`Sniffing et Spooffing`, `Mots de passe Windows sur le réseau`, `Évaluation de la sécurité du réseau`, `Exploitation avancée avec Metasploit`, `Shellcoding - pile`, `Shellcoding – Contourner les protections`, `Shellcoding – Évasion antivirus`, `Techniques de Fuzzing`,`Élévation des privilèges`,`Maintien d'accès` |
+| [3] - Test d'intrusion cloud | `Azure`, `AWS`, `GCP` |
+| [4] - Audit de sécurité réseau avec Nmap| `Scan de réseau`, `tâches de reconnaissance`, `Scan de serveurs Web`, `Scan de base de données`, `Scan des serveurs mails`, `Scan des systèmes Windows et ICS/SCADA ` |
+| [5] - Forensics digital et réponse aux incidents | `Acquisition des preuves `, `Analyse des preuves`, `Réponse aux incidents de ransomware`, `chasse et intelligence de menaces `
+
+
+
+
+
+
+
+
+
+
+
+
+
