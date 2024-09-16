@@ -19,13 +19,10 @@ J'ai développé un portfolio de cybersécurité présentant diverses tâches et
 
 De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
 
-  • Pentester 
-  • Analyste SOC
-  
-  • Auditeur 
-  
-  • Ingénieur cybersécurité 
-  
-  • Analyste enquête numérique 
+  * Pentester 
+  * Analyste SOC
+  * Auditeur 
+  * Ingénieur cybersécurité 
+  * Analyste enquête numérique 
 
 # Compétences 
