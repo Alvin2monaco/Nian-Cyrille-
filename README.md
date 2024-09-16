@@ -9,6 +9,7 @@ En ce moment, je me prépare à passer les certifications Offensive Security Ce
 J'ai développé un portfolio de cybersécurité présentant diverses tâches et projets réalisés au cours de mon parcours pour obtenir mes certificats professionnels de cybersécurité. Ce programme m'a permis d'acquérir des connaissances sur :
 
   • les techniques de contournement antivirus
+	
   • l'attaque et l'exploitation des applications web modernes 
   
   • le test d'intrusion cloud
