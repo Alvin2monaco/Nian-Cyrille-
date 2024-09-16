@@ -32,10 +32,10 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes suivants :
 | [2] - Test d'intrusion avec Windows et Linux | `OSINT`, `Contournement du contrôle d’accès au réseau`,`Sniffing et Spooffing`, `Mots de passe Windows sur le réseau`, `Évaluation de la sécurité du réseau`, `Exploitation avancée avec Metasploit`, `Shellcoding - pile`, `Shellcoding – Contourner les protections`, `Shellcoding – Évasion antivirus`, `Techniques de Fuzzing`,`Élévation des privilèges`,`Maintien d'accès` |
 | [3] - Test d'intrusion cloud | `Azure`, `AWS`, `GCP` |
 | [4] - Audit de sécurité réseau avec Nmap| `Scan de réseau`, `tâches de reconnaissance`, `Scan de serveurs Web`, `Scan de base de données`, `Scan des serveurs mails`, `Scan des systèmes Windows et ICS/SCADA ` |
-| [5] - Forensics digital et réponse aux incidents | `Acquisition des preuves `, `Analyse des preuves`, `Réponse aux incidents de ransomware`, `chasse et intelligence de menaces `
-
-
-
+| [5] - Forensics digital et réponse aux incidents | `Acquisition des preuves `, `Analyse des preuves`, `Réponse aux incidents de ransomware`, `chasse et intelligence de menaces ` |
+| [6] - Python | `Programmation`, `réseautage`, `crackage de codes`, `Cryptographie et sécurité ` |
+| [7] - Wireshark | `Test d'intrusion `, `capture et analyse de traffic réseau ` |
+| [8] - Powershell | `Test d'intrusion `, `administration système `, `Automatisation de scripts pour la cybersécurité `
 
 
 
