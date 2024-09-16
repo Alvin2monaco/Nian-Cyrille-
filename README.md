@@ -31,3 +31,5 @@ De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suiva
   • Ingénieur cybersécurité 
   
   • Analyste enquête numérique 
+
+#Compétences 
