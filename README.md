@@ -46,7 +46,9 @@ Plusieurs outils et systèmes avec lesquels je travaille souvent figurent :
 * Parrot Security OS 
 * Black Arch 
 * Security Onion 
-* Wazuh 
+* Wazuh
+* Tracelabs
+* Zoom eye 
 
 
 
